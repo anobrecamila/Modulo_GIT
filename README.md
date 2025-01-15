@@ -3,9 +3,13 @@
 Para executar o arquivo calculadora.sh é necessário:
 * Logar no Ubuntu;
 * Salvar o arquivo no diretório de sua preferência no seu servidor. Como eu utilizo Windows, é mais fácil fazer isso direto no diretório Linux, usando Ctrl C Ctrl V, mas é possível também pelo Ubuntu, acessando seu diretório, por exemplo cd /home/camila/modulo2/linux
+
 Copiar o conteúdo do arquivo calculadora.sh, que vc pode abrir com bloco de notas ou outro editor de texto; 
+
 No Ubuntu, nano calculadora.sh
+
 Enter e clique com o botão direito do mouse para colar o script do executável.
+
 * Executar os comandos contigos no arquivo comandos.txt; 
 * Por fim, executar o comando ./calculadora.sh
 
