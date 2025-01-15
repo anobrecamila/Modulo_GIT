@@ -6,7 +6,7 @@ Para executar o arquivo calculadora.sh é necessário:
 * Copiar o conteúdo do arquivo calculadora.sh, que vc pode abrir com bloco de notas ou outro editor de texto; 
 * No Ubuntu, nano calculadora.sh
 * Enter e clique com o botão direito do mouse para colar o script do executável.
-* Executar os comandos contigos no arquivo comandos.txt; 
+* Executar os comandos contigos no arquivo comandos.txt, para tornar o arquivo calculadora.sh executável e definir permissões de acesso; 
 * Por fim, executar o comando ./calculadora.sh
 
 Como ele executa um arquivo Python, o projeto_mod1.py, anexei este arquivo também neste repositório para inserir no seu servidor. 
